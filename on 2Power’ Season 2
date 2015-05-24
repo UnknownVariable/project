@@ -1,0 +1,36 @@
+*   [33mcommit 79f0faba5292b593c5bb8e5def322c6d96fbd10f[m
+[31m|[m[32m\[m  Merge: 1bd8dc2 e262293
+[31m|[m [32m|[m Author: M Skie <shiftkey.m@gmail.com>
+[31m|[m [32m|[m Date:   Sun May 24 21:27:56 2015 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'master' into new-branch
+[31m|[m [32m|[m   
+[31m|[m * [33mcommit e262293312f37e3ad6b880fcca9fbb25f26e6904[m
+[31m|[m [32m|[m Author: M Skie <shiftkey.m@gmail.com>
+[31m|[m [32m|[m Date:   Sun May 24 21:23:25 2015 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Added the fix!
+[31m|[m [32m|[m   
+* [32m|[m [33mcommit 1bd8dc2a3f51f360a4b08d2c020dc5488a8583a8[m
+[32m|[m[32m/[m  Author: M Skie <shiftkey.m@gmail.com>
+[32m|[m   Date:   Sun May 24 18:08:17 2015 +0800
+[32m|[m   
+[32m|[m       Added a new feature
+[32m|[m  
+* [33mcommit 5da9314e3bd4d26f065da1955c829c5e7498224a[m
+[32m|[m Author: M Skie <shiftkey.m@gmail.com>
+[32m|[m Date:   Sun May 24 17:49:26 2015 +0800
+[32m|[m 
+[32m|[m     Added the ignore file
+[32m|[m  
+* [33mcommit 3010e8d7fc3b2f880c9fb47285e988b95143c1fe[m
+[32m|[m Author: M Skie <shiftkey.m@gmail.com>
+[32m|[m Date:   Sun May 24 15:59:58 2015 +0800
+[32m|[m 
+[32m|[m     Updated the README
+[32m|[m  
+* [33mcommit cbeb4080ef310cae989497c4e25dbf121179f80f[m
+  Author: M Skie <shiftkey.m@gmail.com>
+  Date:   Sun May 24 15:56:42 2015 +0800
+  
+      Added the README file
